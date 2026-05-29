@@ -59,6 +59,6 @@ Python · pandas · NumPy · scikit-learn · LightGBM · SHAP · scipy · Stream
 
 ## 연락
 
-- 포트폴리오 사이트: https://jmjung950312-cmd.github.io/my-profile-site/
+- 포트폴리오 사이트: https://my-profile-site-lovat.vercel.app/
 - GitHub: https://github.com/jmjung950312-cmd
 - Email: jmjungtube@gmail.com
